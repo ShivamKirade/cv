@@ -114,7 +114,7 @@ a:hover {
 .skill-row-first {
   width: 50%;
   margin: 100px auto 100px auto;
-  text-align: left;
+  
   line-height: 2;
   margin-bottom: 200px;
 }
@@ -126,7 +126,7 @@ a:hover {
 .skill-row-second {
   width: 50%;
   margin: 100px auto 50px auto;
-  text-align: left;
+  
   line-height: 2;
 }
 
