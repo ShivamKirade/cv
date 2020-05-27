@@ -19,7 +19,7 @@ h1 {
 h2 {
   font-family: 'Montserrat', sans-serif;
   color: #389ca1;
-  font-size: 1rem;
+
 }
 
 h3 {
@@ -60,6 +60,10 @@ a:hover {
 }
 
 /*************************************Class Selectors******************************************/
+.h2{
+  font-weight: normal;
+  font-size:.80rem;
+}
 .topcloud {
   position: absolute;
   right: 200px;
