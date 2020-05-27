@@ -19,6 +19,7 @@ h1 {
 h2 {
   font-family: 'Montserrat', sans-serif;
   color: #389ca1;
+  font-size: 3rem;
 }
 
 h3 {
@@ -61,13 +62,13 @@ a:hover {
 /*************************************Class Selectors******************************************/
 .topcloud {
   position: absolute;
-  right: 300px;
+  right: 200px;
 }
 
 .middlecloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 50px;
+  bottom: 500px;
 }
 
 .mypic {
