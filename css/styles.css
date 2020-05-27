@@ -77,14 +77,14 @@ a:hover {
 }
 
 .skillimage {
-  
+
   width: 25%;
   border-radius: 300px;
   margin-right: 25px;
 }
 
 .computer {
-  
+
   width: 25%;
   border-radius: 200px;
   margin-right: 25px;
@@ -114,7 +114,7 @@ a:hover {
 .skill-row-first {
   width: 50%;
   margin: 100px auto 100px auto;
-  
+
   line-height: 2;
   margin-bottom: 200px;
 }
@@ -126,7 +126,7 @@ a:hover {
 .skill-row-second {
   width: 50%;
   margin: 100px auto 50px auto;
-  
+
   line-height: 2;
 }
 
@@ -180,5 +180,5 @@ a:hover {
 .copyright{
   color: #EAF6F6;
   padding: 20px 0;
-  
+
 }
