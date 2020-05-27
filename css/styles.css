@@ -77,14 +77,14 @@ a:hover {
 }
 
 .skillimage {
-  float: left;
+  
   width: 25%;
   border-radius: 300px;
   margin-right: 25px;
 }
 
 .computer {
-  float: right;
+  
   width: 25%;
   border-radius: 200px;
   margin-right: 25px;
